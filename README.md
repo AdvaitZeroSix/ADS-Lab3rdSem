@@ -1,6 +1,6 @@
 # ADS-Lab3rdSem
 
-This repository contains my weekly laboratory work for the Algorithms and Data Structures (ADS) course as part of my B.Tech in Computer Science.
+This repository contains my weekly laboratory work for the **Algorithms and Data Structures (ADS)** course as part of my **B.Tech in Computer Science**.
 
 Each week's folder includes the official lab manual containing the questions and my Java solutions for the respective exercises.
 
@@ -17,7 +17,10 @@ Algorithms-and-Data-Structures-Lab/
 │   └── ...
 │
 ├── Week 02/
-│   └── ...
+│   ├── Manual.pdf
+│   ├── Q1.java
+│   ├── Q2.java
+│   ├── ...
 │
 ├── Week 03/
 │   └── ...
@@ -35,13 +38,15 @@ Each weekly folder contains:
 ## Topics Covered
 
 ### Current Progress
+
 - Week 1 – Arrays
+- Week 2 – Recursion
 
 ### Upcoming Topics
+
 - Searching
 - Sorting
 - Strings
-- Recursion
 - Linked Lists
 - Stacks
 - Queues
@@ -71,4 +76,4 @@ The questions are provided in the respective weekly lab manuals (`Manual.pdf`). 
 
 ---
 
-Maintained by **Advait Saxena**
+**Maintained by Advait Saxena**
