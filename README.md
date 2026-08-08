@@ -41,14 +41,11 @@ Each weekly folder contains:
 
 - Week 1 – Arrays
 - Week 2 – Recursion
+- Week 3 - Stacks
 
 ### Upcoming Topics
 
-- Searching
-- Sorting
-- Strings
 - Linked Lists
-- Stacks
 - Queues
 - Trees
 - Binary Search Trees
