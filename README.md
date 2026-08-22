@@ -39,9 +39,10 @@ Each weekly folder contains:
 
 ### Current Progress
 
-- Week 1 – Arrays
-- Week 2 – Recursion
+- Week 1 - Arrays
+- Week 2 - Recursion
 - Week 3 - Stacks
+- Week 4 - Queues
 
 ### Upcoming Topics
 
