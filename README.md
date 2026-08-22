@@ -47,14 +47,10 @@ Each weekly folder contains:
 ### Upcoming Topics
 
 - Linked Lists
-- Queues
 - Trees
 - Binary Search Trees
 - Heaps
 - Hashing
-- Graphs
-- Dynamic Programming
-- Other ADS laboratory exercises
 
 ## Language
 
