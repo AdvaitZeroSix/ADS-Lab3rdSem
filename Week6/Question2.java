@@ -1,3 +1,12 @@
+//2. Write a Java program using a Doubly Linked List to:
+//• Visit a webpage.
+//• Move to the previous page.
+//• Move to the next page.
+//• Display the current page.
+//Example:
+//Google
+//YouTube
+//Wikipedia
 package Week6;
 
 class Node {
