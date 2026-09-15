@@ -1,3 +1,9 @@
+//5. Implement a Round Robin CPU Scheduling system using a Circular Linked List.
+//• The program should:
+//• Add processes.
+//• Execute processes cyclically.
+//• Display the execution order.
+//• Remove completed processes
 package Week6;
 class Node {
     String name;
