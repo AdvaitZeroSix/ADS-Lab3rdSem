@@ -1,3 +1,4 @@
+//2. Implement Quick Sort using Divide and Conquer.
 package Week10;
 import java.util.Arrays;
 import java.util.Scanner;
