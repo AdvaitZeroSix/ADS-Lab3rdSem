@@ -1,3 +1,4 @@
+//Implement Merge Sort using Divide and Conquer to sort an array of integers in ascending order.
 package Week10;
 import java.util.Arrays;
 import java.util.Scanner;
