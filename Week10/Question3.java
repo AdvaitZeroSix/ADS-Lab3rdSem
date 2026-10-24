@@ -1,3 +1,4 @@
+//3. Find the maximum and minimum elements in an array using Divide and Conquer.
 package Week10;
 import java.util.Scanner;
 public class Question3 {
