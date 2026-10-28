@@ -1,73 +1,35 @@
-# ADS-Lab3rdSem
+# ADS Lab (Semester 3)
 
-This repository contains my weekly laboratory work for the **Algorithms and Data Structures (ADS)** course as part of my **B.Tech in Computer Science**.
+Java solutions for the weekly Algorithms and Data Structures lab, B.Tech CSE at Manipal Institute of Technology. The questions for each week are in that week's lab manual PDF.
 
-Each week's folder includes the official lab manual containing the questions and my Java solutions for the respective exercises.
+| Week | Topic |
+| ---- | ----- |
+| 1 | Arrays |
+| 2 | Recursion |
+| 3 | Stacks |
+| 4 | Queues |
+| 5 | Singly linked lists |
+| 6 | Doubly linked lists |
+| 7 | Binary trees: counting nodes and height |
+| 8 | Graphs |
+| 9 | Searching: linear search and brute-force string matching |
+| 10 | Divide and conquer: merge sort, quick sort, tree height, min and max |
 
-## Repository Structure
+## Layout
 
 ```text
-Algorithms-and-Data-Structures-Lab/
-│
-├── Week 01/
-│   ├── Manual.pdf
-│   ├── Q1.java
-│   ├── Q2.java
-│   ├── Q3.java
-│   └── ...
-│
-├── Week 02/
-│   ├── Manual.pdf
-│   ├── Q1.java
-│   ├── Q2.java
-│   ├── ...
-│
-├── Week 03/
-│   └── ...
-│
-└── README.md
+Week1/ ... Week10/
+├── Question1.java, Question2.java, ...   my solutions
+└── lab manual PDF
 ```
 
-## Contents
+## Run a solution
 
-Each weekly folder contains:
+Each file starts with a `package` line, so compile from the repo root into an output folder and run it by its full name:
 
-- `Manual.pdf` – Official lab manual containing the week's questions.
-- `.java` files – My solutions to the corresponding lab exercises.
+```bash
+javac -d out Week10/Question1.java
+java -cp out Week10.Question1
+```
 
-## Topics Covered
-
-### Current Progress
-
-- Week 1 - Arrays
-- Week 2 - Recursion
-- Week 3 - Stacks
-- Week 4 - Queues
-
-### Upcoming Topics
-
-- Linked Lists
-- Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-
-## Language
-
-- Java
-
-## Purpose
-
-This repository serves as:
-
-- A record of my weekly ADS laboratory work.
-- A collection of Java implementations of data structures and algorithms.
-- A reference for revision before practicals, quizzes, and semester examinations.
-
-## Note
-
-The questions are provided in the respective weekly lab manuals (`Manual.pdf`). The Java programs are my own implementations written for academic and learning purposes.
-
----
-
-**Maintained by Advait Saxena**
+Check the `package` line at the top of a file for the exact name (Week 1 uses `com.mycompany.advaitsaxena`).
